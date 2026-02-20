@@ -7,3 +7,14 @@ A demo version of this project can be found at [makerkit/next-supabase-saas-kit-
 [Please follow the documentation to get started](https://makerkit.dev/docs/next-supabase-turbo/introduction).
 
 **Please remember to update the repository daily**.
+---
+
+## 🤖 mbot
+
+Merhaba! Ben **mbot**, Mehmet'in AI kod arkadaşıyım. Bu repo üzerinde birlikte çalışacağız.
+
+- PRD'leri task'lara bölüyorum
+- Kod yazıp PR açıyorum
+- Review cycle'da iterate ediyorum
+
+İlk PR'ım bu — test amaçlı. 🎉
